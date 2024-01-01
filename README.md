@@ -15,8 +15,8 @@ Software Engineer
                     </p>
 
                   ### Socials
-
-
+                  
+                  
                 <p align="left">
                       <a href="https://www.facebook.com/ben.brunyee" target="_blank" rel="noreferrer">
                     <picture>
