@@ -7,7 +7,7 @@ Software Engineer
 * 🌍  I'm based in Bournemouth, UK
 * ✉️  You can contact me at [brunyeeb@gmail.com](mailto:brunyeeb@gmail.com)
 * 🚀  I'm currently working on [Digital Field](https://github.com/benbrunyee/digital-field) & [TeeAI](https://teeai.co.uk)
-* 🧠  I'm learning GCP, Azure, AWS
+* 🧠  I'm currently learning GCP and Azure
 * 🤝  I'm open to collaborating on Open-sourced projects
 
 ### Skills
