@@ -1,11 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ben Brunyee
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ben
 ===================================================================================================================================
 
 Software Engineer
 -----------------
 
 * 🌍  I'm based in Bournemouth, UK
-* ✉️  You can contact me at [brunyeeb@gmail.com](mailto:brunyeeb@gmail.com)
 * 🚀  I'm currently working on [Digital Field](https://github.com/benbrunyee/digital-field), [TeeAI](https://teeai.co.uk), and [Tynker AI](https://tynkerai.com)
 * 🧠  I'm currently learning GCP and Azure
 * 🤝  I'm open to collaborating on Open-sourced projects
