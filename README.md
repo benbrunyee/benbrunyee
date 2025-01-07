@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-* 🌍  I'm based in Bournemouth, UK
+* 🌍  I'm based in the UK
 * 🚀  I'm currently working on [Digital Field](https://github.com/benbrunyee/digital-field), [TeeAI](https://teeai.co.uk), and [Tynker AI](https://tynkerai.com)
 * 🧠  I'm currently learning GCP and Azure
 * 🤝  I'm open to collaborating on Open-sourced projects
