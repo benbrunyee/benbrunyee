@@ -5,9 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in the UK
-* 🚀  I'm currently working on [Digital Field](https://github.com/benbrunyee/digital-field), [TeeAI](https://teeai.co.uk), and [Tynker AI](https://tynkerai.com)
-* 🧠  I'm currently learning GCP and Azure
-* 🤝  I'm open to collaborating on Open-sourced projects
+* 🚀  I'm currently working on [TeeAI](https://teeai.co.uk) and [Tynker AI](https://tynkerai.com)
 * 💼  Find my [portfolio here](https://benbrunyee.com)
 
 ### Skills
